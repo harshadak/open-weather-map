@@ -1,0 +1,17 @@
+{
+  "name": "open-weather-map",
+  "authors": [
+    "Harshada Kurahatti <harshada.kurahatti@gmail.com>"
+  ],
+  "description": "weather app",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
